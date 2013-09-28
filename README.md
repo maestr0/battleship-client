@@ -11,3 +11,8 @@ GAME API    http://battleship-env-1.elasticbeanstalk.com/
 Server UI		http://battleship-env-1.elasticbeanstalk.com/ui/index.html
 
 Client UI		http://battleship-env-1.elasticbeanstalk.com/client/index.html
+
+
+PRODUCTION ENV2
+
+http://battleships-master-env-kummkavdrx.elasticbeanstalk.com/
